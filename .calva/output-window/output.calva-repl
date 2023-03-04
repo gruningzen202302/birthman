@@ -48,3 +48,134 @@ cljs꞉cljs.user꞉>  ; Use `alt+enter` to evaluate
 ; Require stack:
 ; - /home/vi-th-u/source/repos/birthman/script.cljs
 cljs꞉app꞉> 
+; Jacking in...
+; Connecting using "nbb" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "nbb"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: npx nbb nrepl-server :port 45597
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: nbb...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Jack-in done.
+cljs꞉cljs.user꞉> 
+; Cannot find module 'moment'
+; Require stack:
+; - /home/vi-th-u/source/repos/birthman/script.cljs
+cljs꞉user꞉> 
+5
+cljs꞉user꞉> 
+Hello from calva with nbb !!
+nil
+cljs꞉user꞉> 
+; Could not resolve symbol: moment
+cljs꞉user꞉> 
+; Cannot find module 'moment'
+; Require stack:
+; - /home/vi-th-u/source/repos/birthman/script.cljs
+cljs꞉app꞉> 
+; Cannot find module 'moment'
+; Require stack:
+; - /home/vi-th-u/source/repos/birthman/script.cljs
+cljs꞉app꞉> 
+; Jacking in...
+; Connecting using "nbb" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "nbb"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: npx nbb nrepl-server :port 36997
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: nbb...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Jack-in done.
+cljs꞉cljs.user꞉> 
+; Cannot find module 'moment'
+; Require stack:
+; - /home/vi-th-u/source/repos/birthman/script.cljs
+cljs꞉app꞉> 
+; Jacking in...
+; Connecting using "nbb" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "nbb"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; nREPL Connection was closed
+; Starting Jack-in Terminal: npx nbb nrepl-server :port 33059
+; Hooking up nREPL sessions...
+; Connected session: clj
+; TIPS:
+;   - You can edit the contents here. Use it as a REPL if you like.
+;   - `alt+enter` evaluates the current top level form.
+;   - `ctrl+enter` evaluates the current form.
+;   - `alt+up` and `alt+down` traverse up and down the REPL command history
+;      when the cursor is after the last contents at the prompt
+;   - Clojure lines in stack traces are peekable and clickable.
+clj꞉user꞉> 
+; Creating cljs repl session...
+; Connecting cljs repl: nbb...
+;   The Calva Connection Log might have more connection progress information.
+; Connected session: cljs
+; TIPS: You can choose which REPL to use (clj or cljs):
+;    *Calva: Toggle REPL connection*
+;    (There is a button in the status bar for this)
+; Jack-in done.
+cljs꞉cljs.user꞉> 
+; Could not resolve symbol: app
+cljs꞉app꞉> 
+:require
+cljs꞉app꞉> 
+5
+cljs꞉app꞉> 
+#object[Uw]
+cljs꞉app꞉> 
+#object[Uw]
+cljs꞉app꞉> 
+#object[Uw]
+cljs꞉app꞉> 
+Hello from calva with nbb !!
+nil
+cljs꞉app꞉> 
+; Could not resolve symbol: moment
+cljs꞉app꞉> 
+#object[Ir app]
+cljs꞉app꞉> 
+5
+cljs꞉app꞉> 
+Hello from calva with nbb !!
+nil
+cljs꞉app꞉> 
+2023
+nil
+cljs꞉app꞉> 
