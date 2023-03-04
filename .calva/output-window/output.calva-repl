@@ -10,7 +10,21 @@
 ; "calva.autoSelectReplConnectProjectType": "nbb"
 ;   - See https://calva.io/connect/#auto-select-project-type
 ; 
-; Starting Jack-in Terminal: npx nbb nrepl-server :port 35229
+; Starting Jack-in Terminal: npx nbb nrepl-server :port 33165
+; Jacking in...
+; Connecting using "nbb" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "nbb"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; Starting Jack-in Terminal: npx nbb nrepl-server :port 37443
+; Jacking in...
+; Connecting using "nbb" project type.
+; You can make Calva auto-select this:
+; "calva.autoSelectReplConnectProjectType": "nbb"
+;   - See https://calva.io/connect/#auto-select-project-type
+; 
+; Starting Jack-in Terminal: npx nbb nrepl-server :port 42231
 ; Hooking up nREPL sessions...
 ; Connected session: clj
 ; TIPS:
@@ -30,10 +44,7 @@ clj꞉user꞉>  ; Use `alt+enter` to evaluate
 ;    (There is a button in the status bar for this)
 ; Jack-in done.
 cljs꞉cljs.user꞉>  ; Use `alt+enter` to evaluate
-5
-cljs꞉cljs.user꞉> 
-Hello from calva with nbb !!
-nil
-cljs꞉app꞉> 
-5
+; Cannot find module 'moment'
+; Require stack:
+; - /home/vi-th-u/source/repos/birthman/script.cljs
 cljs꞉app꞉> 
